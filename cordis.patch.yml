@@ -1,0 +1,3 @@
+- insert:
+    - id: model-search
+      name: 'dsh-model-search'
