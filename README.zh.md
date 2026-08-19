@@ -31,6 +31,9 @@ dsh plugin --profile web add dsh-model-search
   }
 }
 ```
+## 兼容性
+
+适用于当前 DSH 版本。如果 DSH 升级后插件失效，请检查更新版本或提交 Issue。
 
 ## 使用
 
