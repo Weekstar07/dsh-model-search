@@ -32,6 +32,9 @@ Or manually add to `~/.dsh/profiles/web/package.json`:
 }
 ```
 
+## Compatibility
+
+Works with the current DSH version. If the plugin stops working after a DSH update, please check for a newer version or open an issue.
 ## Usage
 
 1. Open the model selector dropdown (click the model name in the chat input area)
